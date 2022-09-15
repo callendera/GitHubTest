@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        Helloha greeter = new Helloha("hello from github!");
+        greeter.showRepeatGreeting(10);
     }
 }
